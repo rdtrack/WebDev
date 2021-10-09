@@ -1,0 +1,7 @@
+Metadata: Metadata is data about data 
+Metadata is not shown on browser but it is very essentionial to for seo beacause it helping for ranking a page and other information we can add through which we can acess page
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
